@@ -44,19 +44,6 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
   </a>
 </div>
 
-<div align="center">
-  <!-- Mostra a música que está tocando agora ou a última ouvida -->
-  <a href="https://www.last.fm/user/deaballe">
-    <img src="https://novathetic-lastfm-readme.vercel.app/api/recent-tracks?user=deaballe&theme=tokyonight&count=2" alt="Recent Tracks" />
-  </a>
-</div>
-
-<div align="center">
-  <a href="https://www.last.fm/user/deaballe">
-    <img src="https://readme-lastfm-recent.vercel.app/api?user=deaballe" alt="Recent Tracks" />
-  </a>
-</div>
-
 ---
 
 ### 🛠️ Tech, Data & Management Arsenal

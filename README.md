@@ -36,10 +36,21 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 
 ---
 
+### 🎧 On My Headphones (YouTube Music)
+
+<div align="center">
+  <!-- Mostra a música que está tocando agora ou a última ouvida -->
+  <a href="https://www.last.fm/user/SEU_USUARIO_LASTFM">
+    <img src="https://novathetic-lastfm-readme.vercel.app/api/recent-tracks?user=SEU_USUARIO_LASTFM&theme=tokyonight&count=2" alt="Recent Tracks" />
+  </a>
+</div>
+
+---
+
 ### 🛠️ Tech, Data & Management Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,md,git,github,notion,figma,discord,linux" />
+  <img src="https://skillicons.dev/icons?i=python,r,ruby,git,github,notion,figma,discord,linux" />
 </div>
 
 ---

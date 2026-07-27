@@ -44,15 +44,6 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=deaballe&show_icons=true&theme=tokyonight"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deaballe&layout=compact&theme=tokyonight"/>
-</div>
-
----
-
 <div align="center">
   <i>"Sailing the vast Data Sea with my crew, deciphering knowledge like Poneglyphs!" 🪨🌊✨</i>
 </div>

@@ -49,7 +49,7 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 ### 🛠️ Tech, Data & Management Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,ruby,git,github,notion,figma,discord,linux" />
+  <img src="https://skillicons.dev/icons?i=python,r,ruby,git,github,notion,figma,discord,linux,windows,jira" />
 </div>
 
 ---

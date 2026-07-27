@@ -20,8 +20,8 @@ Hi! I am a **Tech + Business professor and advisor**, effortlessly navigating th
 
 - 🏢 **Currently working as:** Project Advisor for the Technical Advisory team at **SPGG** (State of Rio Grande do Sul, Brazil).
 - 🤝 **Volunteering at:** **Momoi Labs**, driving Product Discovery, Product Management, Data Analysis, and coding.
-- - 🦊 **Mozilla Contributor:** Honored to have worked with **Mozilla** and to have my name officially listed in the **Firefox credits**.
-- 🔍 **Background:** Spent many years breaking things as a **QA Engineer** before charting my course into Project and Product Management.
+- 🦊 **Mozilla Contributor:** Honored to have worked with **Mozilla** and to have my name officially listed in the **Firefox credits**.
+- 🔍 **Background:** Spent many years breaking things as a QA Engineer before charting my course into **Project and Product Management**.
 - 📊 **Current Focus:** Deep diving into **Data Science** and **VibeCoding**! I love extracting insights and building solutions using **Python** and **R**.
 - 🌍 **Languages:** I manage projects seamlessly in **English** and **Portuguese** (Native). I also speak **Spanish** and a bit of **French**.
 

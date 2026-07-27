@@ -30,9 +30,9 @@ Hi! I am a **Tech + Business professor and advisor**, effortlessly navigating th
 ### 🎮 Life Outside the Terminal
 
 When I'm not managing projects, analyzing datasets, or writing academic papers, you can find me:
-- 🏴‍☠️ Watching **One Piece** — sailing alongside my trusted crew across the vast **Data Sea** (definitely not just a data lake!) in search of the **All Blue of Data**. My favorite character is **Nico Robin** because deciphering complex datasets feels a lot like reading Poneglyphs! 🪨📖
+- 🏴‍☠️ Watching **One Piece** — sailing alongside my trusted crew across the vast **Data Sea** (definitely not just a data lake!) in search of the **All Blue of Data**. My favorite character is **Nico Robin** because deciphering complex datasets feels a lot like reading Poneglyphs!
 - 🔥 Hanging out with my favorite Pokémon: **Charmander** (to spark new project ideas) and **Psyduck** (when the code throws unexpected errors).
-- 🍵 Enjoying **cozy games**, exploring **RPGs**, reading good **books**, listening to **music**, and taking highly strategic **naps**.
+- 🍵 Playing **cozy games**, exploring **RPGs**, reading good **books**, listening to **music**, enjoying good **coffee and tea** and taking highly strategic **naps**.
 
 ---
 

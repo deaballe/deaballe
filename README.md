@@ -6,7 +6,6 @@
   <br/><br/>
 
   <!-- Fun Custom Badges -->
-  <img src="https://img.shields.io/badge/Mozilla-Firefox_Credits_Contributor-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
   <img src="https://img.shields.io/badge/Favorite_Nakama-Nico_Robin-9b59b6?style=for-the-badge&logo=bookstack" />
   <img src="https://img.shields.io/badge/Status-Navigating_the_Data_Sea-blue?style=for-the-badge&logo=anchor" />
   <img src="https://img.shields.io/badge/Vibe-Cozy_Games_%26_Naps-cda434?style=for-the-badge&logo=nintendoswitch&logoColor=white" />

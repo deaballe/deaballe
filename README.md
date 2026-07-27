@@ -40,7 +40,7 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 
 <div align="center">
   <!-- Mostra a música que está tocando agora ou a última ouvida -->
-  <a href="https://www.last.fm/user/SEU_USUARIO_LASTFM">
+  <a href="https://www.last.fm/user/deaballe">
     <img src="https://novathetic-lastfm-readme.vercel.app/api/recent-tracks?user=SEU_USUARIO_LASTFM&theme=tokyonight&count=2" alt="Recent Tracks" />
   </a>
 </div>

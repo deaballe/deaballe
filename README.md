@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Animated Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&center=true&vcenter=true&width=700&lines=Tech,+Management+%26+Business;Product+Manager+%26+Data+Science;Deciphering+the+Poneglyphs+of+Data;VibeCoding+with+Python+%26+R;PhD+in+Management+%7C+BSc+in+CS" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=000000&center=true&vcenter=true&width=700&lines=Tech,+Management+%26+Business;Product+Manager+%26+Data+Science;Deciphering+the+Poneglyphs+of+Data;VibeCoding+with+Python+%26+R;PhD+in+Management+%7C+BSc+in+CS" alt="Typing SVG" />
 
   <br/><br/>
 
@@ -39,9 +39,8 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 ### 🎧 On My Headphones (YouTube Music)
 
 <div align="center">
-  <!-- Mostra a música que está tocando agora ou a última ouvida -->
   <a href="https://www.last.fm/user/deaballe">
-    <img src="https://novathetic-lastfm-readme.vercel.app/api/recent-tracks?user=SEU_USUARIO_LASTFM&theme=tokyonight&count=2" alt="Recent Tracks" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=SEU_USUARIO_LASTFM&count=2&width=400" alt="Recent Tracks" />
   </a>
 </div>
 

@@ -40,7 +40,7 @@ When I'm not managing projects, analyzing datasets, or writing academic papers, 
 
 <div align="center">
   <a href="https://www.last.fm/user/deaballe">
-    <img src="https://lastfm-recently-played.vercel.app/api?user=SEU_USUARIO_LASTFM&count=2&width=400" alt="Recent Tracks" />
+    <img src="https://lastfm-recently-played.vercel.app/api?user=deaballe&count=2&width=400" alt="Recent Tracks" />
   </a>
 </div>
 

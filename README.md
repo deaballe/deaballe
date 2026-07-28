@@ -19,7 +19,7 @@
 Hi! I am a **Tech + Business professor and advisor**, effortlessly navigating the waters between technology, management, and strategy. With a **BSc in Computer Science** and a **PhD in Management**, my main research interest is **Knowledge Management** — channeling my inner Nico Robin to uncover and structure valuable knowledge!
 
 - 🏢 **Currently working as:** Project Advisor for the Technical Advisory team at **SPGG** (State of Rio Grande do Sul, Brazil).
-- 🤝 **Volunteering at:** **Momoi Labs**, driving Product Discovery, Product Management, Data Analysis, and coding.
+- 💡 **Building Educational Tools at Momoi Labs:** Driving Product Discovery, Product Management, Data Analysis, and coding.
 - 🦊 **Mozilla Contributor:** Honored to have worked with **Mozilla** and to have my name officially listed in the **Firefox credits**.
 - 🔍 **Background:** Spent many years breaking things as a QA Engineer before charting my course into **Project and Product Management**.
 - 📊 **Current Focus:** Deep diving into **Data Science** and **VibeCoding**! I love extracting insights and building solutions using **Python** and **R**.
